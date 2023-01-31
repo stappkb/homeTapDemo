@@ -19,7 +19,7 @@ $ user = User.objects.create_user(username='fillMeIn', email='fillMeIn', passwor
 $ user.id
 1
 
-ctrl + c to exit shell
+ctrl + d to exit shell
 
 # start server
 $ python manage.py runserver
