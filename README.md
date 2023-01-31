@@ -45,4 +45,5 @@ response should look like this:
 $HOME_DETAIL_SERVICE='home_details.services.HouseCanaryService'
 
 $HOME_DETAIL_API_KEY='FillMeIn'
+
 $HOME_DETAIL_API_SECRET='FillMeIn'
