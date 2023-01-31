@@ -43,5 +43,6 @@ response should look like this:
 ## api_demo/api_demo/.env
 ## add this values:
 $HOME_DETAIL_SERVICE='home_details.services.HouseCanaryService'
+
 $HOME_DETAIL_API_KEY='FillMeIn'
 $HOME_DETAIL_API_SECRET='FillMeIn'
